@@ -926,7 +926,7 @@ menu_edit_custprop() {
 			e|E)	exit_fn
 			;;
 			*)
-				if [ "$PROPNOTSET" == 0]; then
+				if [ "$PROPNOTSET" == 0 ]; then
 					menu_set_custprop "$1" "$INPUT3"
 					break
 				else
