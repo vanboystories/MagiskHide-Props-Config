@@ -263,6 +263,8 @@ If you have the latest beta release of Magisk installed, the "magisk_debug.log" 
 - HTC 10 (6.0.1)
 - Huawei Honor 9 (8.0.0)
 - Huawei Mate 10 Pro (8.0.0)
+- Huawei YAL-L21 (10)
+- Infinix X662 (11)
 - Motorola Moto E4 (7.1.1)
 - Motorola Moto G4 (7.0)
 - Motorola Moto G5 (7.0)
@@ -321,3 +323,4 @@ If you have the latest beta release of Magisk installed, the "magisk_debug.log" 
 - ZTE Axon 7 (7.1.1)
 - ZTE Nubia Z17 (7.1.1)
 - Zuk Z2 Pro (7.0)
+- 
